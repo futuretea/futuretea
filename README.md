@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Rust, Kernel, Kubernetes
+
+![](https://github-readme-stats.vercel.app/api?username=futuretea&theme=dark)
