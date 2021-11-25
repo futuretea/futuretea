@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Rust, Kernel, Kubernetes
 
-![](https://github-readme-stats.vercel.app/api?username=futuretea&theme=dark)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=futuretea&theme=dark) -->
