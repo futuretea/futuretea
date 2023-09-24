@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Rust, Kernel, Kubernetes
+- 🌱 I’m currently learning AIOps
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=futuretea&theme=dark) -->
